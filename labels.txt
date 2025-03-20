@@ -1,0 +1,5 @@
+0 Mutlu
+1 Şaşkın
+2 Korkmuş
+3 Öfkeli
+4 Yorgun
